@@ -1,0 +1,6 @@
+{
+  "locale": "english",
+  "testPassArgrumentIndex": "with {} {}",
+  "testPassArgrumentNaming": "with {firstname} ({nickname}) {lastname}",
+  "newKey": "new key"
+}
